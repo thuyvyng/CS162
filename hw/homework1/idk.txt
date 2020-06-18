@@ -1,0 +1,49 @@
+
+State with largest population 
+Oregon has the Largest Population of 11000000
+
+
+County with largest population 
+Oregon: Lane County has the Largest Population of 82000
+
+
+County with income above enter amount
+Oregon has County Lane income 50000 above 10000
+Oregon has County Benton income 100000 above 10000
+South_Carolina has County Anderson income 100000 above 10000
+South_Carolina has County Pickens income 50000 above 10000
+
+
+State average house cost for all County
+Oregon average House cost = 200000
+South_Carolina average House cost = 250000
+
+
+State sort by name
+Oregon
+South_Carolina
+
+
+State sort by population
+South_Carolina has population: 1000000
+Oregon has population: 11000000
+
+
+County sort by name
+Oregon has County: 
+    Benton
+    Lane
+South_Carolina has County: 
+    Anderson
+    Pickens
+
+
+State sort by population
+Oregon
+    County Benton has population 53000
+    County Lane has population 82000
+South_Carolina
+    County Pickens has population 50000
+    County Anderson has population 81000
+
+
